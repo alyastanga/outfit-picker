@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 480" fill="none">
+  <!-- head -->
+  <circle cx="100" cy="48" r="28" stroke="#5c5348" stroke-width="6" fill="#ebe4d8"/>
+  <!-- neck -->
+  <line x1="100" y1="76" x2="100" y2="100" stroke="#5c5348" stroke-width="6" stroke-linecap="round"/>
+  <!-- torso -->
+  <line x1="100" y1="100" x2="100" y2="250" stroke="#5c5348" stroke-width="8" stroke-linecap="round"/>
+  <!-- arms -->
+  <line x1="100" y1="120" x2="40" y2="200" stroke="#5c5348" stroke-width="6" stroke-linecap="round"/>
+  <line x1="100" y1="120" x2="160" y2="200" stroke="#5c5348" stroke-width="6" stroke-linecap="round"/>
+  <!-- hips -->
+  <line x1="70" y1="250" x2="130" y2="250" stroke="#5c5348" stroke-width="6" stroke-linecap="round"/>
+  <!-- legs -->
+  <line x1="85" y1="250" x2="60" y2="420" stroke="#5c5348" stroke-width="6" stroke-linecap="round"/>
+  <line x1="115" y1="250" x2="140" y2="420" stroke="#5c5348" stroke-width="6" stroke-linecap="round"/>
+  <!-- feet -->
+  <line x1="60" y1="420" x2="40" y2="430" stroke="#5c5348" stroke-width="6" stroke-linecap="round"/>
+  <line x1="140" y1="420" x2="160" y2="430" stroke="#5c5348" stroke-width="6" stroke-linecap="round"/>
+</svg>
